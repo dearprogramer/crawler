@@ -1,0 +1,2 @@
+This is a program for searching web-site information . It is unfinished, the file 'connect.py ' enable you to connect a mysql server,'search.py' is used 
+for searching information. if you have problem ,you can contact me with email '510757615@qq.com', I will gradually finish this program.
